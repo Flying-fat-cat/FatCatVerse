@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "5af09c4bd04a2a44",
+    "id": "3eec000d11fb5000",
     "type": "split",
     "children": [
       {
-        "id": "09cc24f27d5ec237",
+        "id": "a99fa19eccb58083",
         "type": "tabs",
         "children": [
           {
-            "id": "51824e1dc4f2de13",
+            "id": "094f8e351f228086",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肥猫的小世界/肥猫的资源收藏世界/软件收藏/Meshmixer/Meshmixer.md",
+                "file": "肥猫的小世界/GIT测试文件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meshmixer"
+              "title": "GIT测试文件"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e72cd968e3bfe576",
+    "id": "39345062621600a4",
     "type": "split",
     "children": [
       {
-        "id": "3cf33c9298048022",
+        "id": "14f478919ef25140",
         "type": "tabs",
         "children": [
           {
-            "id": "ec8ebcf955a1d763",
+            "id": "449a905d41ebe64c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "92676761996cd574",
+            "id": "0b5af98ccfd28565",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "95030d20cceca1f2",
+            "id": "bdc11520f4e19849",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,92 +77,80 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 300
   },
   "right": {
-    "id": "75d8fe48c12440c4",
+    "id": "dd3b246b9408cb6c",
     "type": "split",
     "children": [
       {
-        "id": "fb98e58a0c2c619c",
+        "id": "602eb25faa462a65",
         "type": "tabs",
         "children": [
           {
-            "id": "7bb023c650633e01",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          }
-        ]
-      },
-      {
-        "id": "26cb8e0cac8263fe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5cf7320ea5678a73",
+            "id": "4d92e96a9aad8f13",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "肥猫的小世界/GIT测试文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "GIT测试文件 的反向链接列表"
             }
           },
           {
-            "id": "bc2eb8accd1daaa7",
+            "id": "b4a4a95196c27ac3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "肥猫的小世界/GIT测试文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "GIT测试文件 的出链列表"
             }
           },
           {
-            "id": "c306700f2f23c429",
+            "id": "c17848d6a8788650",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "标签"
             }
           },
           {
-            "id": "a92f44bdd08f349d",
+            "id": "741bb6baba460e47",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "肥猫的小世界/GIT测试文件.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "GIT测试文件 的大纲"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,52 +162,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "51824e1dc4f2de13",
+  "active": "449a905d41ebe64c",
   "lastOpenFiles": [
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/安装包/安装包.md",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/Meshmixer/Meshmixer.md",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/安装包/Autodesk_Meshmixer_v3p5_Win64.exe",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/安装包",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/Meshmixer/图片/下载完成.png",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/Meshmixer/图片/软件汉化成功.png",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/Meshmixer/图片/选择日语选项.png",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/Meshmixer/图片/文件路径修改文件名称.png",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/Meshmixer/图片/首选项语言设置.png",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/Meshmixer/图片/点击首选项.png",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/Meshmixer/图片/选择安装路径和同意安装.png",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/Meshmixer/图片",
-    "肥猫的小世界/肥猫的学习世界/GIT/GIT 工作流程.md",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/Meshmixer",
-    "肥猫的小世界/肥猫的学习世界/GIT/picture",
-    "肥猫的小世界/肥猫的学习世界/GIT/picture/GIT工作流程图.png",
-    "肥猫的小世界/肥猫的学习世界/GIT/GIT 简介.md",
-    "肥猫的小世界/肥猫的学习世界/GIT/Pasted image 20241225105029.png",
-    "肥猫的小世界/肥猫的学习世界/GIT/Pasted image 20241225105036.png",
-    "肥猫的小世界/肥猫的学习世界/GIT/GIT.md",
-    "肥猫的小世界/肥猫的学习世界/GIT",
-    "肥猫的小世界/肥猫的学习世界/机械建模/机械建模.md",
     "肥猫的小世界.md",
-    "README.md",
-    "肥猫的小世界/GIT测试文件.md",
-    "肥猫的小世界/肥猫的资源收藏世界/项目收藏/项目收藏.md",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/软件收藏.md",
-    "肥猫的小世界/肥猫的学习世界/STM32/STM23.md",
-    "肥猫的小世界/肥猫的学习世界/C 语言/C 运行环境.md",
-    "肥猫的小世界/肥猫的学习世界/C 语言/C 语言.md",
-    "肥猫的小世界/肥猫的学习世界/C 语言/C 简介.md",
-    "肥猫的小世界/肥猫的学习世界/机械建模/SolidWorks/Solidworks.md",
-    "肥猫的小世界/肥猫的学习世界/机械建模/MayCAD/MayCAD.md",
-    "肥猫的小世界/肥猫的学习世界/机械建模/CREO/CREO.md",
-    "肥猫的小世界/肥猫的学习世界/51 单片机/51单片机.md",
-    "肥猫的小世界/肥猫的3D打印世界/耗材/ABS/ABS.md",
-    "肥猫的小世界/肥猫的新奇小点子世界/一些新奇的小点子.md",
-    "肥猫的小世界/肥猫的3D打印世界/耗材/ABS",
-    "肥猫的小世界/肥猫的日常生活世界/NAS搭建/使用DDNS-GO绑定公网IP和域名.md",
-    "肥猫的小世界/肥猫的3D打印世界/耗材/ABS",
-    "肥猫的小世界/肥猫的3D打印世界/整机/硬件（结构）/硬件（结构）.md",
-    "肥猫的小世界/肥猫的3D打印世界/调试和校准/调试和校准相关.md",
-    "肥猫的小世界/肥猫的3D打印世界/肥猫的3D打印世界.md",
-    "肥猫的小世界/肥猫的3D打印世界/整机/硬件（结构）/静态结构/框架/底壳/底壳",
-    "肥猫的小世界/肥猫的3D打印世界/整机/硬件（结构）/动态结构/驱动系统/步进电机"
+    "README.md"
   ]
 }
