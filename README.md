@@ -18,3 +18,9 @@
 - 本知识库使用[Obsidian](https://obsidian.md/)编写和查看，在[下载](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.7/Obsidian-1.7.7.exe)安装后，查看[Obsidian使用文档](https://obsidian.md/)学习简单使用即可快速上手，并构建自己的笔记。
 - 本知识库使用文件夹嵌套作为分级，使用[Markdown](https://daringfireball.net/projects/markdown/)语法编写文档，数据完全储存在本地，并且具有极强的可读性与一致性，你可以查看[Obsidian基本语法格式](https://publish.obsidian.md/help-zh/%E7%BC%96%E8%BE%91%E4%B8%8E%E6%A0%BC%E5%BC%8F%E5%8C%96/%E5%9F%BA%E6%9C%AC%E6%A0%BC%E5%BC%8F%E8%AF%AD%E6%B3%95)快速学习上手Markdown语言。
 - 在使用文件夹嵌套分级和Markdown语法的基础上，使用[Obsidian链接与反向链接](https://publish.obsidian.md/help-zh/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E9%93%BE%E6%8E%A5%E7%AC%94%E8%AE%B0)功能对文件或知识点进行链接，使文件之间的关系更加清晰明确。
+
+## 已知问题
+
+- 在github上直接查看库中的md文件时，链接以及图片大概率会显示不出来或点击无法跳转，这大概率是Obsidian使用Windows文件夹编码格式导致的问题。文件夹使用中文命名后，github读取md文件时解析地址会出现编码错误，实测使用英文命名能够解决这个问题，但这样背离了创建这个库的初衷，因此想要查看完整的知识库，建议直接拉取或下载，并使用Obsidian打开。后期可能会将本库生成为网页形式并托管在Github上，实现更简单的访问。
+- ……
+- 
