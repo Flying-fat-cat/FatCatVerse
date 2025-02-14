@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "肥猫的小世界/肥猫的学习世界/MQTT/MQTT 简介.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "MQTT 简介"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -164,18 +165,25 @@
   },
   "active": "094f8e351f228086",
   "lastOpenFiles": [
-    "头像.jpg",
+    "肥猫的小世界/肥猫的学习世界/MQTT/MQTT QoS.md",
+    "肥猫的小世界/肥猫的学习世界/MQTT/图片/IOT 设备数量2015-2025.png",
+    "肥猫的小世界/肥猫的学习世界/MQTT/MQTT 简介.md",
+    "肥猫的小世界/肥猫的学习世界/MQTT/MQTT.md",
+    "肥猫的小世界/肥猫的学习世界/MQTT/图片/QoS 2.png",
+    "肥猫的小世界/肥猫的学习世界/MQTT/图片/QoS 1.png",
+    "肥猫的小世界/肥猫的学习世界/MQTT/图片/QoS 0.png",
+    "肥猫的小世界/肥猫的学习世界/MQTT/图片",
+    "肥猫的小世界/肥猫的学习世界/STM32/经验及总结.md",
+    "肥猫的小世界/肥猫的学习世界/MQTT",
+    "肥猫的小世界/肥猫的学习世界/STM32/STM23.md",
     "README.md",
+    "头像.jpg",
     "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64/图片/测试代码.png",
     "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64/图片/编译器模式.png",
     "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64/图片/编译器路径.png",
     "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64/MinGW-w64.md",
     "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64/图片/安装C++扩展.png",
     "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64/图片/添加路径至PATH.png",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64/图片/Pasted image 20250102095951.png",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64/图片/打开环境变量界面.png",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64/图片/移动文件夹至C盘.png",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64/图片/下载文件.png",
     "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64/图片",
     "肥猫的小世界/肥猫的资源收藏世界/软件收藏/Meshmixer/Meshmixer.md",
     "肥猫的小世界/肥猫的资源收藏世界/软件收藏/软件收藏.md",
