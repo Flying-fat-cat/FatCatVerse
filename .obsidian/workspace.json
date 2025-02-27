@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "肥猫的小世界/肥猫的学习世界/MQTT/MQTT 简介.md",
+                "file": "肥猫的小世界/肥猫的日常生活世界/NAS搭建/使用DDNS-GO绑定公网IP和域名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MQTT 简介"
+              "title": "使用DDNS-GO绑定公网IP和域名"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.5
   },
   "right": {
     "id": "dd3b246b9408cb6c",
@@ -165,9 +165,19 @@
   },
   "active": "094f8e351f228086",
   "lastOpenFiles": [
+    "肥猫的小世界/肥猫的日常生活世界/NAS搭建/FileBrowser.md",
+    "肥猫的小世界/肥猫的日常生活世界/NAS搭建/NAS 搭建.md",
+    "肥猫的小世界/一些杂物/DeepSeek 提示词.md",
+    "肥猫的小世界/GIT测试文件.md",
+    "肥猫的小世界/肥猫的学习世界/C 语言/string.h/string.h.md",
+    "肥猫的小世界/肥猫的学习世界/C 语言/string.h/strtok();.md",
+    "肥猫的小世界/肥猫的学习世界/C 语言/string.h",
+    "肥猫的小世界/肥猫的学习世界/C 语言/字符串转十六进制.md",
+    "肥猫的小世界.md",
+    "肥猫的小世界/肥猫的学习世界/MQTT/MQTT 介绍.md",
+    "肥猫的小世界/一些杂物",
     "肥猫的小世界/肥猫的学习世界/MQTT/MQTT QoS.md",
     "肥猫的小世界/肥猫的学习世界/MQTT/图片/IOT 设备数量2015-2025.png",
-    "肥猫的小世界/肥猫的学习世界/MQTT/MQTT 简介.md",
     "肥猫的小世界/肥猫的学习世界/MQTT/MQTT.md",
     "肥猫的小世界/肥猫的学习世界/MQTT/图片/QoS 2.png",
     "肥猫的小世界/肥猫的学习世界/MQTT/图片/QoS 1.png",
@@ -187,8 +197,6 @@
     "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64/图片",
     "肥猫的小世界/肥猫的资源收藏世界/软件收藏/Meshmixer/Meshmixer.md",
     "肥猫的小世界/肥猫的资源收藏世界/软件收藏/软件收藏.md",
-    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64",
-    "肥猫的小世界/GIT测试文件.md",
-    "肥猫的小世界.md"
+    "肥猫的小世界/肥猫的资源收藏世界/软件收藏/MinGW-w64"
   ]
 }
