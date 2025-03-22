@@ -11,10 +11,14 @@
             "id": "bec1b8214ad31c8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "肥猫的小世界/肥猫的日常生活世界/NAS搭建/NAS 搭建.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "NAS 搭建"
             }
           }
         ]
@@ -161,6 +165,12 @@
   },
   "active": "bec1b8214ad31c8b",
   "lastOpenFiles": [
+    "肥猫的小世界/肥猫的日常生活世界/肥猫的日常生活世界.md",
+    "肥猫的小世界/肥猫的日常生活世界/NAS搭建/图片/手机通过移动网络使用IPV4访问到路由器后台.jpg",
+    "肥猫的小世界/肥猫的日常生活世界/NAS搭建/图片/修改JELLYFIN容器相关变量.png",
+    "肥猫的小世界.md",
+    "README.md",
+    "头像.jpg",
     "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT/文字控件和文本控件配合使用时出现的文本宽度和无法对齐的问题.md",
     "肥猫的小世界/肥猫的学习世界/C 语言/解决头文件重复包含与结构体未定义的问题.md",
     "肥猫的小世界/肥猫的学习世界/STM32/STM23.md",
@@ -182,9 +192,6 @@
     "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT/Pasted image 20250310175453.png",
     "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT/Pasted image 20250310175343.png",
     "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT/Pasted image 20250310173255.png",
-    "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT/Pasted image 20250310172908.png",
-    "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT/Pasted image 20250310172831.png",
-    "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT/Pasted image 20250310172609.png",
     "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT/图片",
     "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT",
     "肥猫的小世界/肥猫的学习世界/系统架构师/计算机系统基础知识.md",
@@ -198,13 +205,11 @@
     "肥猫的小世界/肥猫的学习世界/C 语言/string.h/strtok();.md",
     "肥猫的小世界/肥猫的学习世界/C 语言/string.h",
     "肥猫的小世界/肥猫的学习世界/C 语言/字符串转十六进制.md",
-    "肥猫的小世界.md",
     "肥猫的小世界/肥猫的学习世界/MQTT/MQTT 介绍.md",
     "肥猫的小世界/一些杂物",
     "肥猫的小世界/肥猫的学习世界/MQTT/MQTT QoS.md",
     "肥猫的小世界/肥猫的学习世界/MQTT/MQTT.md",
     "肥猫的小世界/肥猫的学习世界/MQTT/图片",
-    "肥猫的小世界/肥猫的学习世界/MQTT",
-    "README.md"
+    "肥猫的小世界/肥猫的学习世界/MQTT"
   ]
 }
