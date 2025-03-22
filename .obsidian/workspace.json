@@ -4,56 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a99fa19eccb58083",
+        "id": "c3b5b940d2e53237",
         "type": "tabs",
         "children": [
           {
-            "id": "094f8e351f228086",
+            "id": "bec1b8214ad31c8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT/文字控件和文本控件配合使用时出现的文本宽度和无法对齐的问题.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "文字控件和文本控件配合使用时出现的文本宽度和无法对齐的问题"
-            }
-          },
-          {
-            "id": "419744d53387165c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "肥猫的小世界/肥猫的学习世界/C 语言/解决头文件重复包含与结构体未定义的问题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "解决头文件重复包含与结构体未定义的问题"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "73e6e71409c1159d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6c4cda8802293d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "肥猫的小世界/肥猫的学习世界/C 语言/解决头文件重复包含与结构体未定义的问题.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "解决头文件重复包含与结构体未定义的问题"
+              "title": "新标签页"
             }
           }
         ]
@@ -198,10 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "419744d53387165c",
+  "active": "bec1b8214ad31c8b",
   "lastOpenFiles": [
-    "肥猫的小世界/肥猫的学习世界/C 语言/图片/解决头文件重复包含与结构体未定义的问题.png",
+    "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT/文字控件和文本控件配合使用时出现的文本宽度和无法对齐的问题.md",
     "肥猫的小世界/肥猫的学习世界/C 语言/解决头文件重复包含与结构体未定义的问题.md",
+    "肥猫的小世界/肥猫的学习世界/STM32/STM23.md",
+    "肥猫的小世界/肥猫的学习世界/STM32/经验及总结.md",
+    "肥猫的小世界/肥猫的学习世界/C 语言/图片/解决头文件重复包含与结构体未定义的问题.png",
     "肥猫的小世界/肥猫的学习世界/C 语言/图片",
     "肥猫的小世界/肥猫的日常生活世界/NAS搭建/NAS 搭建.md",
     "肥猫的小世界/肥猫的日常生活世界/NAS搭建/UNRAID 安装 JELLYFIN 实现流媒体平台搭建.md",
@@ -210,7 +174,6 @@
     "肥猫的小世界/肥猫的日常生活世界/NAS搭建/使用DDNS-GO绑定公网IP和域名.md",
     "肥猫的小世界/肥猫的新奇小点子世界/一些新奇的小点子.md",
     "肥猫的小世界/肥猫的新奇小点子世界/肥猫的新奇小点子世界.md",
-    "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT/文字控件和文本控件配合使用时出现的文本宽度和无法对齐的问题.md",
     "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT/VisualTFT.md",
     "肥猫的小世界/肥猫的学习世界/串口屏/串口屏.md",
     "肥猫的小世界/肥猫的学习世界/串口屏/VisualTFT/Pasted image 20250310180416.png",
@@ -241,9 +204,7 @@
     "肥猫的小世界/肥猫的学习世界/MQTT/MQTT QoS.md",
     "肥猫的小世界/肥猫的学习世界/MQTT/MQTT.md",
     "肥猫的小世界/肥猫的学习世界/MQTT/图片",
-    "肥猫的小世界/肥猫的学习世界/STM32/经验及总结.md",
     "肥猫的小世界/肥猫的学习世界/MQTT",
-    "肥猫的小世界/肥猫的学习世界/STM32/STM23.md",
     "README.md"
   ]
 }
