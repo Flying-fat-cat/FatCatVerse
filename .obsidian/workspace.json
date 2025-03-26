@@ -18,7 +18,46 @@
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "NAS 搭建"
+=======
+              "title": "文字控件和文本控件配合使用时出现的文本宽度和无法对齐的问题"
+            }
+          },
+          {
+            "id": "419744d53387165c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "肥猫的小世界/肥猫的学习世界/STM32/STM23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "STM23"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "73e6e71409c1159d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6c4cda8802293d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "肥猫的小世界/肥猫的学习世界/C 语言/解决头文件重复包含与结构体未定义的问题.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "解决头文件重复包含与结构体未定义的问题"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -163,6 +202,7 @@
       "command-palette:打开命令面板": false
     }
   },
+<<<<<<< Updated upstream
   "active": "bec1b8214ad31c8b",
   "lastOpenFiles": [
     "肥猫的小世界/肥猫的日常生活世界/肥猫的日常生活世界.md",
@@ -175,6 +215,12 @@
     "肥猫的小世界/肥猫的学习世界/C 语言/解决头文件重复包含与结构体未定义的问题.md",
     "肥猫的小世界/肥猫的学习世界/STM32/STM23.md",
     "肥猫的小世界/肥猫的学习世界/STM32/经验及总结.md",
+=======
+  "active": "449a905d41ebe64c",
+  "lastOpenFiles": [
+    "肥猫的小世界/肥猫的学习世界/STM32/问题.md",
+    "肥猫的小世界/肥猫的学习世界/C 语言/解决头文件重复包含与结构体未定义的问题.md",
+>>>>>>> Stashed changes
     "肥猫的小世界/肥猫的学习世界/C 语言/图片/解决头文件重复包含与结构体未定义的问题.png",
     "肥猫的小世界/肥猫的学习世界/C 语言/图片",
     "肥猫的小世界/肥猫的日常生活世界/NAS搭建/NAS 搭建.md",
