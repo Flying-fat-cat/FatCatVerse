@@ -1,4 +1,6 @@
+#作者 Flying_fat_cat 会飞的肥猫
 
+#日期 2025-04-14
 ## 介绍
 
 ### **[InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)**
@@ -98,4 +100,4 @@
 1. **[InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)**
 2. **[InteractiveHtmlBomForAD](https://github.com/lianlian33/InteractiveHtmlBomForAD)**
 3. **[InteractiveHtmlBomForAD by Sakura-PI](https://github.com/Sakura-Pi/InteractiveHtmlBomForAD)**
-4. 
+4. ……

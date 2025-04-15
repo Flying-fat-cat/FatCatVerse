@@ -21,7 +21,7 @@
   "deleteOldFiles": true,
   "addThemeToggle": true,
   "addOutline": true,
-  "addFileNav": false,
+  "addFileNav": true,
   "addSearchBar": false,
   "addGraphView": false,
   "addTitle": true,
@@ -29,8 +29,8 @@
   "siteURL": "",
   "authorName": "",
   "vaultTitle": "FatCatVerse",
-  "exportPreset": "raw-documents",
-  "openAfterExport": false,
+  "exportPreset": "documents",
+  "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\Administrator\\Desktop",
+  "exportPath": "C:\\\\Users\\Admin\\Desktop\\新建文件夹",
   "filesToExport": [
     []
   ]

@@ -11,10 +11,14 @@
             "id": "fdd7383e0a8d6e34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "肥猫的小世界/肥猫的学习世界/硬件 PCB/AD25 使用交互式BOM辅助焊接详细教程/AD25 使用交互式BOM辅助焊接详细教程.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "AD25 使用交互式BOM辅助焊接详细教程"
             }
           }
         ]
@@ -70,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,8 +167,8 @@
   },
   "active": "fdd7383e0a8d6e34",
   "lastOpenFiles": [
-    "肥猫的小世界/肥猫的学习世界/硬件 PCB/AD25 使用交互式BOM辅助焊接详细教程/图片/Pasted image 20250414170830.png",
     "肥猫的小世界/肥猫的学习世界/硬件 PCB/AD25 使用交互式BOM辅助焊接详细教程/AD25 使用交互式BOM辅助焊接详细教程.md",
+    "肥猫的小世界/肥猫的学习世界/硬件 PCB/AD25 使用交互式BOM辅助焊接详细教程/图片/Pasted image 20250414170830.png",
     "肥猫的小世界/肥猫的学习世界/硬件 PCB/AD25 使用交互式BOM辅助焊接详细教程/图片/Pasted image 20250414172021.png",
     "肥猫的小世界/肥猫的学习世界/硬件 PCB/AD25 使用交互式BOM辅助焊接详细教程/图片/Pasted image 20250414171841.png",
     "肥猫的小世界/肥猫的学习世界/硬件 PCB/AD25 使用交互式BOM辅助焊接详细教程/图片/Pasted image 20250414171805.png",
@@ -173,7 +178,6 @@
     "肥猫的小世界/肥猫的学习世界/硬件 PCB/AD25 使用交互式BOM辅助焊接详细教程/图片/Pasted image 20250414171413.png",
     "肥猫的小世界/肥猫的学习世界/硬件 PCB/AD25 使用交互式BOM辅助焊接详细教程/图片/Pasted image 20250414171335.png",
     "肥猫的小世界/肥猫的学习世界/硬件 PCB/AD25 使用交互式BOM辅助焊接详细教程/图片/Pasted image 20250414171158.png",
-    "肥猫的小世界/肥猫的学习世界/硬件 PCB/AD25 使用交互式BOM辅助焊接详细教程/图片/Pasted image 20250414171055.png",
     "肥猫的小世界/肥猫的学习世界/硬件 PCB/AD25 使用交互式BOM辅助焊接详细教程/图片",
     "肥猫的小世界/肥猫的学习世界/硬件 PCB/AltiumDesigner AD25 安装/AltiumDesigner AD25 安装.md",
     "肥猫的小世界/肥猫的学习世界/硬件 PCB/AD25 使用交互式BOM辅助焊接详细教程",
